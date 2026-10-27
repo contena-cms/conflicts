@@ -43,4 +43,4 @@ Contena 6 is an open source ecommerce platform built on Symfony and Vue.js. As t
 
 ## License
 
-This package is licensed under the MIT license.
+This package is licensed under the Apache-2.0 license. The upstream licenses are bundled in the NOTICE file.
